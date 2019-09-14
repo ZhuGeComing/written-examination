@@ -1,0 +1,4 @@
+p|a|l|i|n|d|r|o|m|i|c|2|(|n|u|m|)|:|
+~| | | | |c|o|u|n|t| |=| |0|d|e|f| |i|s|_|p|a|l|i|n|d|r|o|m|i|c|2|(|n|u|m|)|:|
+~| | | | |c|o|u|n|t| |=| |0|d|e|f| |i|s|_|p|a|l|i|n|d|r|o|m|i|c|2|(|n|u|m|)|:|
+~| | | | |c|o|u|n|t| |=| |0

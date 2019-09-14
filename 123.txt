@@ -1,0 +1,4 @@
+palindromic2(num):
+    count = 0def is_palindromic2(num):
+    count = 0def is_palindromic2(num):
+    count = 0
